@@ -1,0 +1,8 @@
+flask
+numpy
+faiss
+flask_sqlalchemy
+flask_restful
+passlib
+pyjwt
+gunicorn

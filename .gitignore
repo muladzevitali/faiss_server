@@ -1,0 +1,12 @@
+.idea/
+**/__pycache__/*
+.ipynb_checkpoints/*
+notes.txt
+config.ini
+media/logs/
+media/
+venv/
+*.csv
+*.xlsx
+*.sock
+tests/media/
